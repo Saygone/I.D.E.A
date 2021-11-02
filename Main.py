@@ -1,3 +1,3 @@
-import Nouns, Adjectives
+import First, Second, Third
 
-print(Adjectives.words[Adjectives.word_pos], Nouns.words1[Nouns.word_pos])
+print(First.First_w, Second.Second_w, Third.Third_w)
